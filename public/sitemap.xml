@@ -3,12 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/nodejs/test/</loc>
+    <loc>/tools/</loc>
     <lastmod>2020-01-13T14:11:32-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/nodejs/</loc>
+    <loc>/providers/github/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/providers/npm/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/providers/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/database/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/backend/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/frontend/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/methodology/readability/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/methodology/simplicity/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/frontend/extjs/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tools/git/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/backend/hapijs/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/providers/heroku/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/methodology/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/database/mysql/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/providers/namecheap/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/methodology/naming/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo/netlify/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/providers/netlify/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/backend/nodejs/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/backend/nodejs/test/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/database/oracle/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/backend/php/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/database/postgres/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/frontend/reactjs/</loc>
     <lastmod>2020-01-13T14:11:32-06:00</lastmod>
   </url>
   
@@ -18,36 +138,22 @@
   </url>
   
   <url>
-    <loc>/vuejs/</loc>
+    <loc>/tools/vscode/</loc>
     <lastmod>2020-01-13T14:11:32-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/vuejs/vuetest/</loc>
+    <loc>/frontend/vuejs/vuetest/</loc>
     <lastmod>2020-01-13T14:11:32-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/methodology/naming/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/methodology/readability/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/methodology/simplicity/</loc>
-    <priority>0</priority>
+    <loc>/frontend/vuejs/</loc>
+    <lastmod>2020-01-13T14:11:32-06:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/methodology/</loc>
   </url>
   
   <url>
