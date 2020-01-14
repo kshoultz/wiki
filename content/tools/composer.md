@@ -11,10 +11,13 @@ For PHP Laravel, most of the commands are run from php and composer.
 ## Checking Installation
 
 * Be sure your stuff is installed
-* php version
-* composer version
+* See the composer version by typing 'composer' in the terminal.
+* Point composer to the php version you installed. See the wiki.
 
 ## Creating a site
 
-1. php artisan blah blah blah
-1. php artisan serve
+1. TODO: Add or link to instructions.
+
+## Adding packages
+
+1. TODO: Add link or instructions.

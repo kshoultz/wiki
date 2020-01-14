@@ -6,7 +6,13 @@ draft: false
 
 {{% children showhidden="true" depth="2" description="true" %}}
 
-### Running Your Scripts
+## Installation and Configuration
+
+* Set up your Visual Studio Code to point to your PostgreSQL Connection:
+* { "pgsql.connection": "postgres://username:password@host:port/database" }
+* I have a local database set up and databases connected to a few of my Heroku sites.
+
+## Running Your Scripts
 
 * Make sure you are in your workspace directory.
 * Run script command:

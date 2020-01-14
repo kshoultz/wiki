@@ -5,3 +5,11 @@ draft: false
 ---
 
 {{% children showhidden="true" depth="2" description="true" %}}
+
+* Vue Devtools for Chrome.
+
+## Visual Studio Extensions
+
+* Vetur
+* Vue 2 Snippets
+* Vue VS Code Extension Pack
