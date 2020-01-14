@@ -16,7 +16,10 @@ For PHP Laravel, most of the commands are run from php and composer.
 
 ## Creating a site
 
-1. TODO: Add or link to instructions.
+1. Navigate to your workspace where you want the project to live. Run:
+1. composer create-project --prefer-dist laravel/laravel blog
+1. Navigate to your new project directory. To run the site, run:
+1. php artisan serve
 
 ## Adding packages
 
