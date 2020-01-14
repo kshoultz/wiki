@@ -8,8 +8,7 @@ draft: false
 
 ## Installation and Configuration
 
-* Set up your Visual Studio Code to point to your PostgreSQL Connection:
-* { "pgsql.connection": "postgres://username:password@host:port/database" }
+* I've installed a PostgreSQL extension to Visual Studio Code. I will check this out and test.
 * I have a local database set up and databases connected to a few of my Heroku sites.
 
 ## Running Your Scripts

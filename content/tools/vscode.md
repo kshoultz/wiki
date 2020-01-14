@@ -47,4 +47,4 @@ draft: false
 
 ## PostgreSQL
 
-* pgsql
+* PostgreSQL (ckolkman.vscode-postgres by Chris Kolkman)
