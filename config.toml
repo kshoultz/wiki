@@ -25,13 +25,17 @@ enableInlineShortcodes = true
             unsafe = true
 
 [[menu.shortcuts]]
-    name = "Test1" 
-    url = "/"
+    name = "Shoultz Interactive" 
+    url = "http://www.shoultzinteractive.com"
 
 [[menu.shortcuts]]
-    name = "Test2" 
-    url = "/"
+    name = "THe Gravitywell Project" 
+    url = "http://www.thegravitywell.com/"
 
 [[menu.shortcuts]]
-    name = "Test3" 
-    url = "/"
+    name = "Maps Test Harness" 
+    url = "http://maps-test-harness.herokuapp.com/"
+
+[[menu.shortcuts]]
+    name = "Charts Test Harness" 
+    url = "http://charts-test-harness.herokuapp.com/"
