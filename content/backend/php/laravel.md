@@ -6,6 +6,13 @@ draft: false
 
 ### Laravel Notes
 
+## Creating a New Site
+
+1. Navigate to your workspace where you want the project to live. Run:
+1. composer create-project --prefer-dist laravel/laravel blog
+1. Navigate to your new project directory. To run the site, run:
+1. php artisan serve
+
 ## Create the Vue Scaffolding
 
 * composer laravel/ui --dev

@@ -23,4 +23,8 @@ For PHP Laravel, most of the commands are run from php and composer.
 
 ## Adding packages
 
-1. TODO: Add link or instructions.
+* Example for adding UI scaffolding with Vue:
+* composer laravel/ui --dev
+* php artisan ui vue
+* npm install (installs the vue and node packages)
+* npm run dev (builds the Vue files)
