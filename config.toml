@@ -1,0 +1,37 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Shoultz WIKI"
+theme = "learn"
+buildDrafts = true
+enableEmojie = true
+enableInlineShortcodes = true
+
+[params]
+    description = "Documentation"
+    author = "Kevin Shoultz"
+    showVisitedLinks = false
+    disableBreadcrumb = false
+    disableNextPrev = false
+    themeVariant = "gravitywell"
+    shortcutTitle = "More"
+    extVersion = "7.1.0"
+
+[outputs]
+    home = [ "HTML", "RSS", "JSON" ]
+
+[markup]
+    [markup.goldmark]
+        [markup.golmark.renderer]
+            unsafe = true
+
+[[menu.shortcuts]]
+    name = "Test1" 
+    url = "/"
+
+[[menu.shortcuts]]
+    name = "Test2" 
+    url = "/"
+
+[[menu.shortcuts]]
+    name = "Test3" 
+    url = "/"
