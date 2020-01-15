@@ -10,7 +10,7 @@ draft: false
 
 * The latest version of Python as of this wiki is 3.8.1
 * HOWEVER, when installing Node.js, it will install Python 2.7.17, so still figuring this one out.
-* Node.js uses Python 2.7.17 to compile some of the assets. 
+* Node.js uses Python 2.7.17 to compile some of the assets.
 * If you are using Node.js, you  may just want to install Python for you instead.
 * If you're not using Node.js, download and install the latest version of Python so that you can develop Python applications.
 * Be sure python is accurately in the Path variable.

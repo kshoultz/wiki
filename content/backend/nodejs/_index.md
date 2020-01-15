@@ -10,4 +10,9 @@ draft: false
 
 * The latest version of node.js as of this wiki is 12.14.1
 * Download and install the latest version of node.js.
-* 
+* npm install -g create-nodejs-project
+* npm setup
+
+### Create New Node.js Project
+
+* npm init nodejs-project path/to/new/project
