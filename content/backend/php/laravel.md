@@ -7,6 +7,7 @@ draft: false
 ### Downloading An Existing Laravel Site
 
 1. git clone <https://github.com/theirdomain/theirproject> yourdirectory
+1. php artisan key:generate (.env does not get committed to git).
 1. composer install
 1. npm install
 

@@ -12,8 +12,8 @@ draft: false
 * I want my root directory to be clean, so I install to "C:\Program Files\php-7.3.11".
 * Checking version: php -v
 * Be sure php is in the Path variable.
-* When I moved my php directory on my laptop, for some reason the php.ini got lost. I had to do the following command:
-* setx PHPRC "C:\YourPathto\PHP7\php.ini"
+* When I moved my php directory on my laptop, for some reason the php.ini got lost.
+* I tried a lot of things, but what ultimately worked was to re-run the composer setup executable. It asked if I wanted to create a php.ini file, which is what I was trying to figure out.
 
 ### Visual Studio Code Extensions
 
