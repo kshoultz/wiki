@@ -9,8 +9,11 @@ draft: false
 ### Setup and Configuration
 
 * Download and install the latest version of PHP.
+* I want my root directory to be clean, so I install to "C:\Program Files\php-7.3.11".
 * Checking version: php -v
 * Be sure php is in the Path variable.
+* When I moved my php directory on my laptop, for some reason the php.ini got lost. I had to do the following command:
+* setx PHPRC "C:\YourPathto\PHP7\php.ini"
 
 ### Visual Studio Code Extensions
 

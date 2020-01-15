@@ -4,6 +4,12 @@ date: 2020-01-13T14:11:32-06:00
 draft: false
 ---
 
+### Downloading An Existing Laravel Site
+
+1. git clone <https://github.com/theirdomain/theirproject> yourdirectory
+1. composer install
+1. npm install
+
 ### Creating a New Site
 
 1. Navigate to your workspace where you want the project to live. Run:
