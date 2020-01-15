@@ -4,9 +4,9 @@ date: 2020-01-13T14:11:32-06:00
 draft: false
 ---
 
-### My Visual Studio Extensions
+## My Visual Studio Extensions
 
-## General Extensions
+### General Extensions
 
 * Bracket Pair Colorizer
 * ESLint
@@ -17,15 +17,15 @@ draft: false
 * GitLens — Git supercharged
 * markdownlint
 
-## JavaScript
+### JavaScript
 
 * GitLens — Git supercharged
 
-## Node.js Extensions
+### Node.js Extensions
 
 * TODO: Add Extensions
 
-## PHP Extensions
+### PHP Extensions
 
 * PHP DocBlocker
 * PHP Getters & Setters
@@ -33,18 +33,18 @@ draft: false
 * PHP Intelephense
 * PHP Namespace Resolver
 
-## Laravel Extensions
+### Laravel Extensions
 
 * Laravel Blade Spacer
 * Laravel Blade Snippets
 * Laravel goto view
 
-## Vue.js Extensions
+### Vue.js Extensions
 
 * Vetur
 * Vue 2 Snippets
 * Vue VS Code Extension Pack
 
-## PostgreSQL
+### PostgreSQL
 
 * PostgreSQL (ckolkman.vscode-postgres by Chris Kolkman)

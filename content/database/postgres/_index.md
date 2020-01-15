@@ -6,7 +6,7 @@ draft: false
 
 {{% children showhidden="true" depth="2" description="true" %}}
 
-## Installation and Configuration
+### Installation and Configuration
 
 * The latest version as of this documentaion is PostgreSQL 12.1
 * If you have a previous version of PostgreSQL, you'll want to run the uninstaller executable first.
@@ -15,7 +15,7 @@ draft: false
 * Be sure the installation bin is on your PATH system variable.
 * Check the installation at the command line by running psql --version
 
-## Running Your Scripts
+### Running Your Scripts
 
 * Make sure you are in your workspace directory.
 * Run script command:
@@ -25,7 +25,7 @@ draft: false
   * heroku pg:push databaseName heroku-database-name --app heroku-app-name
   * heroku pg:pull heroku-database-name databaseName --app heroku-app-name
 
-## General Notes
+### General Notes
 
 * I've installed a PostgreSQL extension to Visual Studio Code.
 * It seems to work pretty well for peeking into data.

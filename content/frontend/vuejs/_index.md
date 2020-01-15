@@ -8,7 +8,7 @@ draft: false
 
 * Vue Devtools for Chrome.
 
-## Visual Studio Extensions
+### Visual Studio Extensions
 
 * Vetur
 * Vue 2 Snippets

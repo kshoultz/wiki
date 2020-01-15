@@ -6,15 +6,13 @@ draft: false
 
 {{% children showhidden="true" depth="2" description="true" %}}
 
-### PHP Notes
-
-## Setup and Configuration
+### Setup and Configuration
 
 * Download and install the latest version of PHP.
 * Checking version: php -v
 * Be sure php is in the Path variable.
 
-## Visual Studio Code Extensions
+### Visual Studio Code Extensions
 
 * Laravel Blade Spacer
 * Laravel Blade Snippets
@@ -25,10 +23,10 @@ draft: false
 * PHP Intelephense
 * PHP Namespace Resolver
 
-## Creating a new php application
+### Creating a new php application
 
 * TODO: Add instructions.
 
-## Running a server
+### Running a server
 
 * TODO: Add instructions.
