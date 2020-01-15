@@ -12,3 +12,7 @@ draft: false
   * Increases maintainability.
   * Keeps code upgradable.
   * Allows for other developers to follow and consume your code.
+* I want to keep my machine as clear and clean as possible. I don't want a cluttered C: root directory.
+  * Downloaded software in the respective Program Files directory.
+  * PATH variables properly set.
+  * Workspaces and projects under a single directory, in my case: 'c:\work'.
