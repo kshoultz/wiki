@@ -9,3 +9,4 @@ weight: 50
 
 * I have the hugo environment set up on my main machine. I'd like to capture this process in the wiki.
 * I have only the github repository on my laptop. I can make content changes from the laptop.
+* I only have one Hugo site. I want to revisit the installation and see if I can have the Hugo sites in my main workspace with other framework sites.
