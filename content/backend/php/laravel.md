@@ -27,3 +27,8 @@ draft: false
 * These files are deployed to the public directory
 * You will need to tie the vue framework to the blade and implementation. See the Vue wiki.
 * php artisan serve
+
+### PostgreSQL with Laravel Migrations
+
+* Need to uncomment extension=pdo_pgsql in the php.ini file.
+* When using seeders, I got an exception for the Seeder not existing. Run: composer dump-autoload

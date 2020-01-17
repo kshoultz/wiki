@@ -32,7 +32,3 @@ draft: false
 * I'd like to bind the keyboard shortcuts to some that I'm familiar with (cTRL+ENTER to run scripts).
 * I have a local database set up and databases connected to a few of my Heroku sites.
 * The main stand alone tool for PostgreSQL is pgAdmin.
-
-### PostgreSQL with Laravel Migrations
-
-* Need to uncomment extension=pdo_pgsql in the php.ini file.
