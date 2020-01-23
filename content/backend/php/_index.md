@@ -37,3 +37,7 @@ draft: false
 ### Using the PDO
 
 * <https://phpdelusions.net/pdo>
+* <https://www.php.net/manual/en/pdo.prepared-statements.php>
+* <https://www.php.net/manual/en/pdo.transactions.php> (Important Note: The cursor remains open until the end of transaction, and since PostgreSQL works in auto-commit mode by default, the cursor is closed immediately after the procedure call, so it is not available to the caller. To work with cursors the caller have to start a transaction.)
+* <https://www.php.net/manual/en/book.pdo.php>
+* <http://www.nusphere.com/kb/phpmanual/ref.pdo.htm>
