@@ -4,10 +4,19 @@ date: 2020-01-13T14:11:32-06:00
 draft: false
 ---
 
+### Why should I use Github.com?
+
+* I can store my code there for free. 
+* I can host my web pages there for free.
+* One of my projects can be a template or starter set of files for a new website. 
+* You can create a repo that holds a site that you created and understand. This can be good for holding your notes and learning code.
+* You can use Github Desktop to make a lot of actions easier create visibility of your projects and repos.
+
 ### Credentials and Logging In
 
-1. Set up an SSH Key with github.com (Find a youtube video that walks you through this).
-1. Find process for using the github CLI to log in with a token.
+* Set up an SSH Key with github.com (Find a youtube video that walks you through this).
+* Find process for using the github CLI to log in with a token (Gitbash or terminal).
+* docs: https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-
 
 ### Creating a repository
 

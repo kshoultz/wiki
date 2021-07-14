@@ -8,10 +8,15 @@ draft: false
 
 ### Installation and Setup
 
-* The latest version of node.js as of this wiki is 12.14.1
+* The latest version of node.js as of this wiki is 14.17.3
 * Download and install the latest version of node.js.
-* npm install -g create-nodejs-project
+* If you're going to install Hugo, be sure to install Chocoloty.
+* Verify installation with 'node -v'.
+* npm install -g create-nodejs-project (Is this right?)
 * npm setup
+
+* npm install -g npm
+* npm -v (verify installation and version)
 
 ### Create New Node.js Project
 
